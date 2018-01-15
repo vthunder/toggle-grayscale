@@ -8,7 +8,7 @@ If you've been following the [latest trend](https://www.nytimes.com/2018/01/12/t
 Installation instructions:
 ------------------------
 
-* Download the .zip file and unzip
+* Download the [latest release .zip](https://github.com/vthunder/toggle-grayscale/releases) file and unzip
 * Open System Preferences > Security & Privacy > Privacy tab
 * Unlock (bottom-left icon) if necessary, and add the unzipped file to the list
 
